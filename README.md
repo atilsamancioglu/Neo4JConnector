@@ -1,0 +1,7 @@
+**.env contents**
+
+DATABASE_URL=neo4j://<IPADRESS>:7687
+
+DATABASE_USER=
+
+DATABASE_PASSWORD=
